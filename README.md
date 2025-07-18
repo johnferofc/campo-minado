@@ -19,7 +19,7 @@ Este é o back-end do clássico jogo **Campo Minado**, desenvolvido como meu pri
 - Impressão do estado atual do jogo no terminal
 
 ## 📂 Estrutura do Projeto
-<img width="472" height="200" alt="image" src="https://github.com/user-attachments/assets/89e7bdd3-aea7-461d-a0c8-316ed34b322f" />
+<img width="477" height="196" alt="image" src="https://github.com/user-attachments/assets/28a039d9-bb95-4ea3-a4d5-dd2fa40fc390" />
 
 ## 🛠️ Como Executar
 
